@@ -1,0 +1,11 @@
+C:\Users\30694\source\repos\HRLibDLL\bin\Debug\net8.0\HRLibDLL.deps.json
+C:\Users\30694\source\repos\HRLibDLL\bin\Debug\net8.0\HRLibDLL.dll
+C:\Users\30694\source\repos\HRLibDLL\bin\Debug\net8.0\HRLibDLL.pdb
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\HRLibDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\HRLibDLL.AssemblyInfoInputs.cache
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\HRLibDLL.AssemblyInfo.cs
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\HRLibDLL.csproj.CoreCompileInputs.cache
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\HRLibDLL.dll
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\refint\HRLibDLL.dll
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\HRLibDLL.pdb
+C:\Users\30694\source\repos\HRLibDLL\obj\Debug\net8.0\ref\HRLibDLL.dll

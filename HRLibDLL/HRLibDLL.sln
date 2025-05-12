@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibDLLTests", "..\HRLibDLLTests\HRLibDLLTests.csproj", "{560D08F9-E2B5-4835-9232-339F3C62F555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibSDLL", "..\HRLibSDLL\HRLibSDLL.csproj", "{C5DD2D98-50BF-482F-BEF0-19CAC15B20CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560D08F9-E2B5-4835-9232-339F3C62F555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560D08F9-E2B5-4835-9232-339F3C62F555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560D08F9-E2B5-4835-9232-339F3C62F555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560D08F9-E2B5-4835-9232-339F3C62F555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DD2D98-50BF-482F-BEF0-19CAC15B20CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DD2D98-50BF-482F-BEF0-19CAC15B20CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DD2D98-50BF-482F-BEF0-19CAC15B20CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DD2D98-50BF-482F-BEF0-19CAC15B20CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13178B48-DD42-458D-A61C-8EC457966518}
+	EndGlobalSection
+EndGlobal

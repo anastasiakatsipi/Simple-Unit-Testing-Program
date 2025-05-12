@@ -1,0 +1,12 @@
+C:\Users\30694\source\repos\HRLibSDLL\bin\Debug\HRLibSDLL.dll
+C:\Users\30694\source\repos\HRLibSDLL\bin\Debug\HRLibSDLL.pdb
+C:\Users\30694\source\repos\HRLibSDLL\obj\Debug\HRLibSDLL.csproj.AssemblyReference.cache
+C:\Users\30694\source\repos\HRLibSDLL\obj\Debug\HRLibSDLL.csproj.CoreCompileInputs.cache
+C:\Users\30694\source\repos\HRLibSDLL\obj\Debug\HRLibSDLL.dll
+C:\Users\30694\source\repos\HRLibSDLL\obj\Debug\HRLibSDLL.pdb
+C:\Users\30694\Desktop\Εργασίες\ΠερασμέναΕξάμηνα\ΠοιότηταΚαιΑξιοπιστίαΛογισμικού\ΚΑΤΣΙΠΗ-20390099-ΔΑΝΑΛΑΤΟΣ-20390045-ΚΑΡΤΣΑΓΚΟΥΛΗΣΔΑΣΚΑΛΑΚΗΣ-20390095\HRLibSDLL\bin\Debug\HRLibSDLL.dll
+C:\Users\30694\Desktop\Εργασίες\ΠερασμέναΕξάμηνα\ΠοιότηταΚαιΑξιοπιστίαΛογισμικού\ΚΑΤΣΙΠΗ-20390099-ΔΑΝΑΛΑΤΟΣ-20390045-ΚΑΡΤΣΑΓΚΟΥΛΗΣΔΑΣΚΑΛΑΚΗΣ-20390095\HRLibSDLL\bin\Debug\HRLibSDLL.pdb
+C:\Users\30694\Desktop\Εργασίες\ΠερασμέναΕξάμηνα\ΠοιότηταΚαιΑξιοπιστίαΛογισμικού\ΚΑΤΣΙΠΗ-20390099-ΔΑΝΑΛΑΤΟΣ-20390045-ΚΑΡΤΣΑΓΚΟΥΛΗΣΔΑΣΚΑΛΑΚΗΣ-20390095\HRLibSDLL\obj\Debug\HRLibSDLL.csproj.AssemblyReference.cache
+C:\Users\30694\Desktop\Εργασίες\ΠερασμέναΕξάμηνα\ΠοιότηταΚαιΑξιοπιστίαΛογισμικού\ΚΑΤΣΙΠΗ-20390099-ΔΑΝΑΛΑΤΟΣ-20390045-ΚΑΡΤΣΑΓΚΟΥΛΗΣΔΑΣΚΑΛΑΚΗΣ-20390095\HRLibSDLL\obj\Debug\HRLibSDLL.csproj.CoreCompileInputs.cache
+C:\Users\30694\Desktop\Εργασίες\ΠερασμέναΕξάμηνα\ΠοιότηταΚαιΑξιοπιστίαΛογισμικού\ΚΑΤΣΙΠΗ-20390099-ΔΑΝΑΛΑΤΟΣ-20390045-ΚΑΡΤΣΑΓΚΟΥΛΗΣΔΑΣΚΑΛΑΚΗΣ-20390095\HRLibSDLL\obj\Debug\HRLibSDLL.dll
+C:\Users\30694\Desktop\Εργασίες\ΠερασμέναΕξάμηνα\ΠοιότηταΚαιΑξιοπιστίαΛογισμικού\ΚΑΤΣΙΠΗ-20390099-ΔΑΝΑΛΑΤΟΣ-20390045-ΚΑΡΤΣΑΓΚΟΥΛΗΣΔΑΣΚΑΛΑΚΗΣ-20390095\HRLibSDLL\obj\Debug\HRLibSDLL.pdb
